@@ -2,6 +2,7 @@
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/huong-tran-nguyen)
 
+---
 
 ### Frontend Technologies
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
