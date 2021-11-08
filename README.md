@@ -1,5 +1,8 @@
 ## Hello, I'm Huong! 👋
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/huong-tran-nguyen)
+
+
 ### Frontend Technologies
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,7 +39,6 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/huong-tran-nguyen)
 <!--
 **huongtran1993/huongtran1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
