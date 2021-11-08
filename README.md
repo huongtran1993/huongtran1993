@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Huong
+# Hi there 👋, I'm Huong
 
 ## Frontend Technologies
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
